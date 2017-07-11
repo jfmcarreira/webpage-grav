@@ -1,3 +1,6 @@
+# Own
+fix_permissions.bash
+
 # Composer
 .composer
 vendor/*
