@@ -14,9 +14,9 @@ I am currently the leading developer of the following open-source projects:
 
 Secondary projects:
 - Personal [dotfiles](https://github.com/jfmcarreira/dotfiles)
-- Gentoo Portage [Overlay](rehttps://gitweb.gentoo.org/user/carreira.git/) (also on [Github](https://github.com/jfmcarreira/carreira-overlay))
-- Fork of [Ktikz](https://github.com/jfmcarreira/ktikz) porject (based on KF5 frameworks)
-- Fork of [KToshiba](https://github.com/jfmcarreira/ktoshiba) porject (based on KF5 frameworks)
+- Gentoo Portage [Overlay](https://gitweb.gentoo.org/user/carreira.git/) (also on [Github](https://github.com/jfmcarreira/carreira-overlay))
+- Fork of [Ktikz](https://github.com/jfmcarreira/ktikz) project (based on KF5 frameworks)
+- Fork of [KToshiba](https://github.com/jfmcarreira/ktoshiba) project (based on KF5 frameworks)
 
 
 All the other projects, proofs of concepts and code snippets are hosted on my own GitHub account:
