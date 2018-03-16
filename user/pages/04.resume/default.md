@@ -26,7 +26,7 @@ markdown:
 ### **Experience**
 
 
-**2017: Assistant lecturer at Instituto Politécnico de Leiria, Portugal  **
+**2017-Present: Assistant lecturer at Instituto Politécnico de Leiria, Portugal  **
 
 + Assistant lecturer of under-grad courses.
 

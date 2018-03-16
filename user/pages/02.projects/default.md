@@ -10,7 +10,7 @@ markdown:
 ---
 
 I am currently the main developer of the following open-source project:
-- [PlaYUVer](/projects/playuver) Video player based on Qt focusing on image/video analysis
+- [Calyp](/projects/calyp) Video player based on Qt focusing on image/video analysis
 
 Secondary projects:
 - Fork of [Ktikz](https://github.com/jfmcarreira/ktikz) project (based on KF5 frameworks)

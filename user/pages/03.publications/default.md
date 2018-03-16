@@ -23,8 +23,10 @@ markdown:
 - J. Carreira, L. Pinto, N. Rodrigues, S. Faria, and P. Assuncao, [**Subjective assessment of frame loss concealment methods in 3D video**](http://ieeexplore.ieee.org/document/5702455/), in Picture Coding Symposium (PCS), Dec. 2010, pp. 182–185
 
 #### Presentations
-- J. Carreira, [**A Robust Video Encoding Scheme to Enhance Error Concealment of Intra Frames**](presentation_video_iscas_2017_carreira.mp4), IEEE International Symposium on Circuits and Systems (ISCAS), Baltimore, United States, May, 2017
+- J. Carreira, [**A Robust Video Encoding Scheme to Enhance Error Concealment of Intra Frames**](presentation_video_iscas_2017_carreira.mp4), IEEE International Symposium on Circuits and Systems (ISCAS), Baltimore, United States, May 2017
 - J. Carreira, [**Methods to improve error resilience in inter-frame High Efficiency Video Coding**](CostAction3DContounetMay2015Carreira.pdf), 3D-ConTourNet Cost Action Meeting, Lisbon, Portugal, May 2015
+- J. Carreira, [**Selective motion vector redundancies for improved error resilience in HEVC**](poster_icip_2014.pdf), in IEEE International Conference on Image Processing (ICIP), Paris, France, October 2014
+- J. Carreira, [**Dynamic motion vector refreshing for enhanced error resilience in HEVC**](presentation_eusipco_2014.pdf), in 22nd European Signal Processing Conference (EUSIPCO), Lisbon, Portugal September 2014
 
 #### Thesis
 - J. Carreira, [**Subjective Quality Evaluation and Frame Loss Concealment in 3D Video**](master_thesis_jcarreira.pdf), MSc thesis, Instituto Politécnico de Leiria, Portugal, 2012
