@@ -6,7 +6,7 @@ markdown:
     extra: true
 ---
 
-# [Calyp](https://github.com/pixlra/playuver)
+# [Calyp](https://github.com/pixlra/calyp)
 ## Enhanced YUV video player based on Qt focusing on image/video analysis
 
 
@@ -64,7 +64,7 @@ markdown:
 
 ### Where is it?
 * **Daily builds** available for Windows and Linux on [SourceForge page](https://sourceforge.net/projects/playuver/)
-* **Source code** available on [Github](https://github.com/pixlra/playuver)
+* **Source code** available on [Github](https://github.com/pixlra/calyp)
 
 ### Documentation
 * [Doxygen](http://www.calyp.jfmcarreira.pt/)
