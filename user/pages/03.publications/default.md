@@ -12,7 +12,7 @@ markdown:
 - J. Carreira, P. Assuncao, S. Faria, E. Ekmekcioglu, and A. Kondoz, [**A two-stage approach for robust HEVC coding and streaming**](http://ieeexplore.ieee.org/document/7893719/), IEEE Transactions on Circuits and Systems for Video Technology, Apr. 2017
 
 #### Conference publications
-- J. Carreira, P. Assunção, S. Faria, E. Ekmekcioglu and A. Kondoz, **A Robust Video Encoding Scheme to Enhance Error Concealment of Intra Frames**, IEEE International Symposium on Circuits and Systems (ISCAS), Baltimore, United States, May, 2017
+- J. Carreira, P. Assunção, S. Faria, E. Ekmekcioglu and A. Kondoz, [**A Robust Video Encoding Scheme to Enhance Error Concealment of Intra Frames**](http://ieeexplore.ieee.org/document/8050576/), IEEE International Symposium on Circuits and Systems (ISCAS), Baltimore, United States, May, 2017
 - J. Carreira, P. Assuncao, S. Faria, E. Ekmekcioglu, A. Kondoz, and H.Lim, [**Reference picture selection using checkerboard pattern for resilient video coding**](http://ieeexplore.ieee.org/document/7457852/), in IEEE International Conference on Visual Communications and Image Processing (VCIP), Dec. 2015, pp. 1–5
 - J. Carreira, S. Faria, P. Assuncao, E. Ekmekcioglu, and A. Kondoz, [**Error resilience analysis of motion vector prediction in HEVC**](paper_conftele_2015_carreira.pdf), in 10th Conference on Telecommunications (Conftele), Oct. 2015, pp. 1–4
 - J. Carreira, E. Ekmekcioglu, A. Kondoz, P. Assuncao, S. Faria, and V. D. Silva, [**Selective motion vector redundancies for improved error resilience in HEVC**](http://ieeexplore.ieee.org/document/7025497/), in IEEE International Conference on Image Processing (ICIP), Oct. 2014, pp. 2457–2461
