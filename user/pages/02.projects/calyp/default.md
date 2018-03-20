@@ -2,9 +2,13 @@
 title: Calyp
 author:
     username: jfmcarreira
+process:
+    markdown: true
+    twig: false
 markdown:
     extra: true
 ---
+
 
 # [Calyp](https://github.com/pixlra/calyp)
 ## Enhanced YUV video player based on Qt focusing on image/video analysis

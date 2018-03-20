@@ -1,13 +1,14 @@
 ---
 title: Resume
+author:
+    username: jfmcarreira
 process:
     markdown: true
     twig: false
-author:
-    username: jfmcarreira
 markdown:
     extra: true
 ---
+
 
 ### **Education**
 
@@ -20,21 +21,22 @@ markdown:
 ##### **2010 - 2012: Master Degree in Electronics Engineering - Telecomunications, Instituto Politécnico de Leiria, Portugal**
 + Thesis title: [**Subjective Quality Evaluation and Frame Loss Concealment in 3D Video**](/user/media/master_thesis_jcarreira.pdf)
 
-##### **2007 - 2010: Bachors Degree in Electronics Engineering, Instituto Politécnico de Leiria, Portugal**
+##### **2007 - 2010: Bachelor Degree in Electronics Engineering, Instituto Politécnico de Leiria, Portugal**
 + Project title: **DVB-T3D - Transmission of 3D Television over a DVB-T Channel**.
+
 
 
 ### **Experience**
 
-##### **2017-Present: Assistant professor at Instituto Politécnico de Leiria, Portugal**
+##### **2017-Present: Assistant Professor at Instituto Politécnico de Leiria, Portugal**
 + Department of Electrical Engineering, ESTG;
-+ lecturer of under-grad courses of electronics and embedded systems.
++ Lecturer of under-grad courses of electronics and embedded systems.
 
 ##### **2014: Laboratory Demonstration at University of Surrey, United Kingdom**
-+ Providing  support to students on circuits development and programming.
++ Provide  support to students on circuits development and programming.
 
 ##### **2012: Laboratory Demonstrator at Instituto Politécnico de Leiria, Portugal**
-+ Providing the necessary support to students on practical course work using Microcontrollers.
++ Provide the necessary support to students on practical course work using Microcontrollers.
 
 ##### **2010 - 2012: Research fellow on the P3DTV project, Instituto de Telecomunicações, Portugal**
 + P3DTV project - Performance Optimisation in 3D TV Broadcasting Services

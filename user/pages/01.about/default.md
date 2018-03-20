@@ -1,13 +1,14 @@
 ---
 title: About
+author:
+    username: jfmcarreira
 process:
     markdown: true
     twig: false
-author:
-    username: jfmcarreira
 markdown:
     extra: true
 ---
+
 
 <img align="left" src="/user/pages/01.about/carreira_icip.jpg" style="height:230px" hspace="20">
 
