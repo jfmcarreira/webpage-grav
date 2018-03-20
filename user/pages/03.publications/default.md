@@ -29,5 +29,5 @@ markdown:
 - J. Carreira, [**Dynamic motion vector refreshing for enhanced error resilience in HEVC**](presentation_eusipco_2014.pdf), in 22nd European Signal Processing Conference (EUSIPCO), Lisbon, Portugal September 2014
 
 #### Thesis
-- J. Carreira, [**Subjective Quality Evaluation and Frame Loss Concealment in 3D Video**](master_thesis_jcarreira.pdf), MSc thesis, Instituto Politécnico de Leiria, Portugal, 2012
+- J. Carreira, [**Subjective Quality Evaluation and Frame Loss Concealment in 3D Video**](/user/media/master_thesis_jcarreira.pdf), MSc thesis, Instituto Politécnico de Leiria, Portugal, 2012
 

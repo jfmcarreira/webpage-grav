@@ -57,10 +57,12 @@ markdown:
     * Tagged Image File Format (tiff)
     * Portable Map (ppm,pgm,pbm)
 
+## Screenshots
+![](calyp_several_sequences.png?cropResize=800)
+
 ## Developers
 - **Joao Carreira**     (jfmcarreira@gmail.com)
 - **Lui­s Lucas**        (luisfrlucas@gmail.com)
-
 
 ### Where is it?
 * **Daily builds** available for Windows and Linux on [SourceForge page](https://sourceforge.net/projects/playuver/)
