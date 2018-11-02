@@ -9,7 +9,9 @@ markdown:
     extra: true
 ---
 #### Journal publications
-- J. Carreira, P. Assuncao, S. Faria, E. Ekmekcioglu, and A. Kondoz, [**A two-stage approach for robust HEVC coding and streaming**](http://ieeexplore.ieee.org/document/7893719/), IEEE Transactions on Circuits and Systems for Video Technology, Apr. 2017
+- J. Carreira, P. Assuncao, S. Faria, E. Ekmekcioglu, and A. Kondoz, [**Error Concealment-Aware Encoding for Robust Video Transmission**](https://ieeexplore.ieee.org/document/8454848/), IEEE Transactions on Broadcasting (available in IEEEXplore since Sep. 2018)
+- J. Carreira, P. Assuncao, S. Faria, E. Ekmekcioglu, and A. Kondoz, [**A two-stage approach for robust HEVC coding and streaming**](http://ieeexplore.ieee.org/document/7893719/), IEEE Transactions on Circuits and Systems for Video Technology, vol. 28, no. 8, pp. 1960-1973, Aug. 2018
+
 
 #### Conference publications
 - J. Carreira, P. Assunção, S. Faria, E. Ekmekcioglu and A. Kondoz, [**A Robust Video Encoding Scheme to Enhance Error Concealment of Intra Frames**](http://ieeexplore.ieee.org/document/8050576/), IEEE International Symposium on Circuits and Systems (ISCAS), Baltimore, United States, May, 2017

@@ -17,6 +17,7 @@ markdown:
 + Objective: Develop efficient error resilience and error concealment techniques for the forthcoming multimedia services based on High Efficiency Video Coding (HEVC) standard
 
 ##### **2013 - 2015: PhD student, University of Surrey, United Kingdom**
++ Research within I-Lab of the Centre for Vision and Signal Processing.
 
 ##### **2010 - 2012: Master Degree in Electronics Engineering - Telecomunications, Instituto Politécnico de Leiria, Portugal**
 + Thesis title: [**Subjective Quality Evaluation and Frame Loss Concealment in 3D Video**](/user/media/master_thesis_jcarreira.pdf)
@@ -28,14 +29,14 @@ markdown:
 
 ### **Experience**
 
-##### **2017-Present: Assistant Professor at Instituto Politécnico de Leiria, Portugal**
+##### **2017-Present: Assistant Lecturer at Instituto Politécnico de Leiria, Portugal**
 + Department of Electrical Engineering, ESTG;
 + Lecturer of under-grad courses of electronics and embedded systems.
 
-##### **2014: Laboratory Demonstration at University of Surrey, United Kingdom**
+##### **2014: Assistant Lecturer at University of Surrey, United Kingdom**
 + Provide  support to students on circuits development and programming.
 
-##### **2012: Laboratory Demonstrator at Instituto Politécnico de Leiria, Portugal**
+##### **2012: Laboratory Assistant at Instituto Politécnico de Leiria, Portugal**
 + Provide the necessary support to students on practical course work using Microcontrollers.
 
 ##### **2010 - 2012: Research fellow on the P3DTV project, Instituto de Telecomunicações, Portugal**
@@ -43,7 +44,7 @@ markdown:
 + This project addressed the emerging 3D TV broadcasting services by investigating the problems associated with transmission of different stereo video coding formats.
 + Task carried out: research  on 3D video coding techniques, e.g., H.264/MVC; develp empirical models to characterize the 3D video quality over a DVB-T hierarchical channel; develop of efficient error concealment techniques for 3D video decoders complaint with H.264/MVC.
 
-##### **2008 - 2009: Research fellow on project of Fundação para a Ciência e Tecnologia (FCT), Portugal**
+##### **2008 - 2009: Research fellow on a project funded by Fundação para a Ciência e Tecnologia (FCT), Portugal**
 + Task carried out:  study the state of art codecs and technologies for digital television broadcast; working with transmission and reception equipment for digital television of Rohde & Schwarz.
 
 

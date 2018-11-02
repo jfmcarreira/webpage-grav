@@ -15,7 +15,7 @@ markdown:
 
 
 ## Features
-- Support for libavformat and libavcodec;
+- Support for FFmpeg’s Libavformat and Libavcodec;
 - Support for wide range of raw video formats;
 - Support up to 16 bits per pixel
 - Support for OpenCV image/video processing library
@@ -39,7 +39,7 @@ markdown:
 - Frame difference, crop, shift, binarization
 - Sub-sampling operations
 - Measuring modules
-- Modules based on opencv:
+- Modules based on Opencv:
     - Disparity estimation
     - Motion estimation
 
